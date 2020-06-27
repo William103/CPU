@@ -11,7 +11,7 @@ and 8 bytes of memory, each containing one 15-bit word.
 ## Machine Code and Programming
 It is quite difficult to program. At the moment I don't have
 access to my notebook containing how the machine code works,
-and it is way to complicated to do from memory, but each 15-bit
+and it is way too complicated to do from memory, but each 15-bit
 word instruction (all instructions are 1 "byte" to simplify
 things considerably) is made up of a 3-bit opcode, 1 bit
 indicating whether the op1 is a register or immediate value,
